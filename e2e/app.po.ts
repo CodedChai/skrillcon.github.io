@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class AngularTourOfHeroesPage {
+export class SkrillconPage {
   navigateTo() {
     return browser.get('/');
   }

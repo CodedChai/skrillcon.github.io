@@ -1,10 +1,10 @@
-import { AngularTourOfHeroesPage } from './app.po';
+import { SkrillconPage } from './app.po';
 
-describe('angular-tour-of-heroes App', function() {
-  let page: AngularTourOfHeroesPage;
+describe('skrillcon App', function() {
+  let page: SkrillconPage;
 
   beforeEach(() => {
-    page = new AngularTourOfHeroesPage();
+    page = new SkrillconPage();
   });
 
   it('should display message saying app works', () => {
